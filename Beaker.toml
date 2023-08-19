@@ -1,0 +1,4 @@
+name = "multi-signature-wallet-connector"
+
+[wasm]
+optimizer_version = '0.12.8'
